@@ -1,0 +1,65 @@
+{
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "sparse_redwoods": "2024-08-14 15:38:28 +0300",
+      "chalk_cliffs": "2024-08-14 15:39:12 +0300"
+    },
+    "done": false
+  },
+  "chunkbychunk:root": {
+    "criteria": {
+      "login": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "sparse_redwoods": "2024-08-14 15:38:28 +0300",
+      "chalk_cliffs": "2024-08-14 15:39:12 +0300"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-14 15:38:27 +0300"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-08-14 15:38:28 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
